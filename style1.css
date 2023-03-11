@@ -1,0 +1,23 @@
+body {
+    background-color:white;
+    
+}
+header {
+    background-color: white;
+    display: flex;
+    position: absolute;
+   
+}
+#main-layout {
+    background-color: white;
+    display: flex;
+    justify-content:space-around;
+  
+   
+}
+.main-item {
+    width:50%
+    
+
+
+}
